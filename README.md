@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://github.com/simonhja/NFT-Card
 - Live Site URL: https://simonhja.github.io/NFT-Card/
 
 ### Built with
